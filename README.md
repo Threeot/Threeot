@@ -5,3 +5,5 @@
 
 <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=Threeot&theme=gruvbox" alt="master7720's Contribution Graph.">
 </a></div>
+
+[![Top Langs](https://activity-graph.herokuapp.com/graph?username=Threeot&theme=gruvbox,F2FBFF,E6F8FF,FFE6EB,FFF2F5)](https://github.com/anuraghazra/github-readme-stats)
