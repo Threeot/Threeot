@@ -3,5 +3,3 @@
 ![Overview](https://github-readme-stats.vercel.app/api?username=Threeot&include_all_commits=true&count_private=true&title_color=CC88BB&text_color=885566&bg_color=20,F2FBFF,E6F8FF,FFE6EB,FFF2F5)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Threeot&layout=compact&title_color=CC88BB&bg_color=20,F2FBFF,E6F8FF,FFE6EB,FFF2F5)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Threeot&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=dracula)](https://git.io/streak-stats)
